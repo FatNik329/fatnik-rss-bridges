@@ -1,0 +1,10 @@
+GameGuruBridge
+GismeteoNewsBridge
+HiTechMailBridge
+IxbtBridge
+IxbtGamesBridge
+IxbtLiveBridge
+MySKUBridge
+RutabBridge
+SravniMagBridge
+VGTimesUniversalBridge
